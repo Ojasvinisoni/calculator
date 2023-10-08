@@ -1,2 +1,2 @@
-calculatorTech
-Calculator for solving mathamatical problems
+calculator Tech 
+ Calculator for solving mathamatical problems
